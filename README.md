@@ -1,6 +1,5 @@
 # memory-js
 
-Un petit memory tout simple avec des photos de chiens 🐶  
-réalisé avec jQuery dans le cadre d'un exercice de cours
+Un petit memory tout simple réalisé avec jQuery et des photos de chiens 🐶  
 
 https://doggy-memory.netlify.app/memory.html
